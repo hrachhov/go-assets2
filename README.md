@@ -12,3 +12,4 @@ cogroups
 trust
 865
 guest
+# testing password, token ans secret
